@@ -7,8 +7,8 @@ Create a repository file  http://classroom.example.com/content/rhel9.0/x86_64/dv
 To create,verify configure a Repository File in RHEL
 
 # Algorithm
-
-Start the Terminal.
+<h2>Step 1:</h2>
+Start the Terminal:
 Open the terminal window in your Red Hat Linux environment.
 
 Navigate to the YUM Repository Directory.
