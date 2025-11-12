@@ -29,9 +29,10 @@ Clear any existing metadata or cached data to ensure the new repository informat
 Verify the Repository Configuration.
 Display the list of repositories to confirm that the newly created AppStream and BaseOS repositories appear in the output.
 
-# Output
+# Output:
+<img width="1256" height="752" alt="image" src="https://github.com/user-attachments/assets/86f1d093-62b8-45e8-a6bb-abaf7d52c366" />
 
 
-# Result
+# Result:
 
 Thus, the local repository file in RHEL is created successfully.
